@@ -20,6 +20,7 @@ venv.bak/
 
 # Pipenv specific files
 Pipfile.lock
+Pipfile
 
 # MacOS specific files
 .DS_Store
