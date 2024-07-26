@@ -1,0 +1,28 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+
+# Python virtual environments
+.venv/
+env/
+ENV/
+venv/
+env.bak/
+venv.bak/
+
+# Pipenv specific files
+Pipfile.lock
+
+# MacOS specific files
+.DS_Store
+
+# Logs
+*.log
